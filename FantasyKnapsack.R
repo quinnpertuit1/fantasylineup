@@ -2,7 +2,7 @@
 library(lpSolveAPI)
 
 ## Set this to your working directory
-setwd("E:/NFLStuff/Fantasy/FantasyLineup")
+setwd("/Users/quinnx/Documents/GitHub/baderfantasylineup")
 
 ## Github page: https://github.com/geekman1/fantasylineup
 ##
